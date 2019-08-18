@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://github.com/ticup/agrobio       # Note: don't forget to modify the CNAME file to your url
+url: https://ticup.github.com/agrobio       # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -179,4 +179,4 @@ deploy:
   type: git
   repo: https://github.com/ticup/agrobio.git
   name: ticup
-  branch: gh-page
+  branch: gh-pages
