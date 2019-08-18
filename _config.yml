@@ -4,7 +4,7 @@
 
 # Site
 title: Agro & Bio
-subtitle: Een wetenschappelijk onderbouwde blog over dierenwelzijn, landbouw, voeding en natuur.
+subtitle: Een wetenschappelijk onderbouwde blog over landbouw, voeding en natuur.
 author: Tim Coppieters
 language: nl
 timezone:
@@ -20,10 +20,10 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: Agro & Bio
-email: beantech@gmail.com
+email: coppieters.tim@gmail.com
 description: ""
-keyword: ""
-header-img: img/header_img/home-bg-2-dark.png
+keyword: "natuur, voeding, dierenwelzijn, "
+header-img: img/header_img/grass-mountains-crop.jpg
 signature: true #show signature
 signature-img: img/signature/ticupdot-white.png 
 
