@@ -2,50 +2,50 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://ticup.github.com/agrobio/tags/samenleving/</loc>
-        <lastmod>2019-08-18T19:25:02.904Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/historie/</loc>
-        <lastmod>2019-08-18T19:25:02.904Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/gedrag/</loc>
-        <lastmod>2019-08-18T19:25:02.904Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/mens-en-dier/</loc>
-        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/evolutie/</loc>
-        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://ticup.github.com/agrobio/tags/voeding/</loc>
-        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
+        <lastmod>2019-08-18T21:32:11.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://ticup.github.com/agrobio/tags/maatschappij/</loc>
-        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
+        <lastmod>2019-08-18T21:32:11.612Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/samenleving/</loc>
+        <lastmod>2019-08-18T21:36:37.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/mens-en-dier/</loc>
+        <lastmod>2019-08-18T21:36:37.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/evolutie/</loc>
+        <lastmod>2019-08-18T21:36:37.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/historie/</loc>
+        <lastmod>2019-08-18T21:36:37.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/gedrag/</loc>
+        <lastmod>2019-08-18T21:36:37.258Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
