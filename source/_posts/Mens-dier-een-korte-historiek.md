@@ -1,7 +1,7 @@
 ---
 title: 'Mens & dier: een korte historiek'
 catalog: true
-date: 2019-08-11 22:05:51
+date: 2019-07-11 22:05:51
 subtitle:
 header-img: header5.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Mens & voeding: een verhaal van vervreemding'
 catalog: true
-date: 2019-08-13 21:10:22
+date: 2019-07-13 21:10:22
 subtitle:
 header-img:
 tags:

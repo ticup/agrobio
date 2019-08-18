@@ -3,7 +3,7 @@
 
     <sitemap>
         <loc>https://github.com/ticup/agrobio/post-sitemap.xml</loc>
-        <lastmod>2019-08-13T21:26:48.912Z</lastmod>
+        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -12,13 +12,8 @@
     </sitemap>
 
     <sitemap>
-        <loc>https://github.com/ticup/agrobio/category-sitemap.xml</loc>
-        <lastmod>2019-08-11T19:29:40.413Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>https://github.com/ticup/agrobio/tag-sitemap.xml</loc>
-        <lastmod>2019-08-11T19:29:40.413Z</lastmod>
+        <lastmod>2019-08-18T19:25:02.904Z</lastmod>
     </sitemap>
 
 </sitemapindex>

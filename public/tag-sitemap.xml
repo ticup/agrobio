@@ -2,64 +2,50 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://github.com/ticup/agrobio/tags/Hexo/</loc>
-        <lastmod>2019-08-11T19:29:40.413Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://github.com/ticup/agrobio/tags/Blog/</loc>
-        <lastmod>2019-08-11T19:29:40.413Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://github.com/ticup/agrobio/tags/samenleving/</loc>
-        <lastmod>2019-08-13T20:10:18.225Z</lastmod>
+        <lastmod>2019-08-18T19:25:02.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://github.com/ticup/agrobio/tags/historie/</loc>
-        <lastmod>2019-08-13T20:10:18.225Z</lastmod>
+        <lastmod>2019-08-18T19:25:02.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://github.com/ticup/agrobio/tags/gedrag/</loc>
-        <lastmod>2019-08-13T20:10:18.225Z</lastmod>
+        <lastmod>2019-08-18T19:25:02.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://github.com/ticup/agrobio/tags/mens-en-dier/</loc>
-        <lastmod>2019-08-13T21:26:48.912Z</lastmod>
+        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://github.com/ticup/agrobio/tags/evolutie/</loc>
-        <lastmod>2019-08-13T21:26:48.912Z</lastmod>
+        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://github.com/ticup/agrobio/tags/voeding/</loc>
-        <lastmod>2019-08-13T21:26:48.912Z</lastmod>
+        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://github.com/ticup/agrobio/tags/maatschappij/</loc>
-        <lastmod>2019-08-13T21:26:48.912Z</lastmod>
+        <lastmod>2019-08-18T19:25:03.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
