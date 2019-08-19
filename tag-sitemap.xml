@@ -9,20 +9,6 @@
     </url>
 
     <url>
-        <loc>https://ticup.github.com/agrobio/tags/Biodiversiteit/</loc>
-        <lastmod>2019-08-19T13:21:50.879Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/Natuur/</loc>
-        <lastmod>2019-08-19T13:21:50.879Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://ticup.github.com/agrobio/tags/Samenleving/</loc>
         <lastmod>2019-08-19T13:24:31.842Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -65,13 +51,6 @@
     </url>
 
     <url>
-        <loc>https://ticup.github.com/agrobio/tags/Maatschappij/</loc>
-        <lastmod>2019-08-19T13:24:39.118Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://ticup.github.com/agrobio/tags/Boek-samenvatting/</loc>
         <lastmod>2019-08-19T13:24:39.118Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,6 +74,27 @@
     <url>
         <loc>https://ticup.github.com/agrobio/tags/Tuinaanleg/</loc>
         <lastmod>2019-08-19T13:24:41.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/Natuur/</loc>
+        <lastmod>2019-08-19T13:25:37.393Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/Biodiversiteit/</loc>
+        <lastmod>2019-08-19T13:25:37.393Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/Maatschappij/</loc>
+        <lastmod>2019-08-19T13:25:37.393Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
