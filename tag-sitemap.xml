@@ -23,34 +23,6 @@
     </url>
 
     <url>
-        <loc>https://ticup.github.com/agrobio/tags/Mens-en-dier/</loc>
-        <lastmod>2019-08-19T15:32:23.110Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/Evolutie/</loc>
-        <lastmod>2019-08-19T15:32:23.110Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/Voeding/</loc>
-        <lastmod>2019-08-19T15:32:23.110Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/Boek-samenvatting/</loc>
-        <lastmod>2019-08-19T15:32:23.110Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://ticup.github.com/agrobio/tags/Vergroening/</loc>
         <lastmod>2019-08-19T15:35:22.490Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,28 +52,49 @@
 
     <url>
         <loc>https://ticup.github.com/agrobio/tags/Natuur/</loc>
-        <lastmod>2019-08-19T17:20:30.757Z</lastmod>
+        <lastmod>2019-08-19T17:33:32.039Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://ticup.github.com/agrobio/tags/Biodiversiteit/</loc>
-        <lastmod>2019-08-19T17:20:30.757Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://ticup.github.com/agrobio/tags/Maatschappij/</loc>
-        <lastmod>2019-08-19T17:20:30.757Z</lastmod>
+        <lastmod>2019-08-19T17:33:32.039Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://ticup.github.com/agrobio/tags/Milieu-ethiek/</loc>
-        <lastmod>2019-08-19T17:20:30.757Z</lastmod>
+        <lastmod>2019-08-19T17:33:32.039Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/Maatschappij/</loc>
+        <lastmod>2019-08-19T17:33:44.642Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/Evolutie/</loc>
+        <lastmod>2019-08-19T17:33:44.642Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/Mens-en-dier/</loc>
+        <lastmod>2019-08-19T17:33:44.642Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://ticup.github.com/agrobio/tags/Voeding/</loc>
+        <lastmod>2019-08-19T17:33:44.642Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
