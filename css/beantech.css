@@ -9,6 +9,9 @@
     padding-right: 5%;
   }
 }
+img {
+  image-orientation: from-image;
+}
 .sidebar-container {
   color: #bfbfbf;
   font-size: 14px;
