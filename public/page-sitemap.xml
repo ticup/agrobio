@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://ticup.github.com/agrobio/about/</loc>
+        <lastmod>2019-08-18T21:40:27.571Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://ticup.github.com/agrobio/404.html</loc>
         <lastmod>2019-08-11T20:49:01.353Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>https://ticup.github.com/agrobio/archive/</loc>
         <lastmod>2019-08-11T19:29:12.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://ticup.github.com/agrobio/about/</loc>
-        <lastmod>2019-08-11T19:16:18.320Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
