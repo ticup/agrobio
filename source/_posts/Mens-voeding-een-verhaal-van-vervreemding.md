@@ -5,10 +5,11 @@ date: 2019-07-13 21:10:22
 subtitle:
 header-img:
 tags:
-- voeding
-- maatschappij
-- evolutie
-- mens en dier
+- Voeding
+- Maatschappij
+- Evolutie
+- Mens en dier
+- Boek samenvatting
 ---
 
 In een vorige post keken we naar de evolutie van de relatie tussen mens & dier en ook meer algemeen, mens & voedsel. Je kan deze historiek vanuit twee verschillende standpunten bekijken. De een ziet een technologische vooruitgang en optimalisatie van onze voedselproductie, waardoor er meer tijd en middellen vrijkomen om andere dingen te doen. De ander ziet dit als een teloorgang van waardevolle relaties en zelfs een beperking van vrijheid. Michiel Korthals, voormalig hoogleraar filosofie aan de Wageningen Universiteit, behoort tot die laatste categorie. Hij noemt het een verhaal van vervreemding. De mens groeit steeds verder weg van zijn voedsel en dat hoeft zeker niet positief te zijn [1].

@@ -5,11 +5,11 @@ date: 2019-07-11 22:05:51
 subtitle:
 header-img: header5.jpg
 tags:
-- samenleving
-- mens en dier
-- evolutie
-- historie
-- gedrag
+- Samenleving
+- Mens en dier
+- Evolutie
+- Historie
+- Gedrag
 ---
 
 Het geduld is niet altijd aan mij weggelegd. Gelukkig gaat in de wereld van IT alles razendsnel vooruit, als er vernieuwing opsteekt is het een kwestie van een aantal jaar vooraleer iedereen het hanteert. De verspreiding van nieuwe informatie zit in het DNA. Als ik echter met meer maatschappelijke ideeën bezig ben, dan loop ik al snel tegen de lamp met m'n geduld. Als het om voeding, landbouw of natuur gaat dan komt er veel meer bij te kijken dan bij IT, je zit met huidige machststructuren, politiek, en vooral een bepaalde mindset van de burger. Één van de dingen die mij stoort is de manier waarop wij als mens momenteel omgaan met dieren. Geschiedenis heeft mij nooit enorm kunnen boeien, maar wanneer ik een bloemlezing kreeg over de geschiedenis van de relatie tussen mens en dier kon ik m'n ergernis een plaats geven. Het leerde me hoe de huidige maatschappelijke ideeën tot stand zijn gekomen en waarom mensen op een bepaalde manier denken. Dit resulteerde in een aantal leuke "aha-momentjes" en liet mij inzien waarom sommige dingen zo moeilijk te veranderen zijn. Ze zitten namelijk diep in onze cultuur verwikkeld [1].
