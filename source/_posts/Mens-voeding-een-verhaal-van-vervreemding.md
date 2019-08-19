@@ -3,13 +3,16 @@ title: 'Mens & voeding: een verhaal van vervreemding'
 catalog: true
 date: 2019-07-13 21:10:22
 subtitle:
-header-img:
+header-img: 'header.jpg'
 tags:
 - Voeding
 - Maatschappij
 - Evolutie
 - Mens en dier
-- Boek samenvatting
+---
+
+**tldr;** De mens vervreemd telkens meer van z'n voedsel (= product + proces + verwerking), terwijl dit ons net mens maakt. We moeten de kloof terug proberen te dichten zodat consument, producent en tussenschakels elkaar terug begrijpen.
+
 ---
 
 In een vorige post keken we naar de evolutie van de relatie tussen mens & dier en ook meer algemeen, mens & voedsel. Je kan deze historiek vanuit twee verschillende standpunten bekijken. De een ziet een technologische vooruitgang en optimalisatie van onze voedselproductie, waardoor er meer tijd en middellen vrijkomen om andere dingen te doen. De ander ziet dit als een teloorgang van waardevolle relaties en zelfs een beperking van vrijheid. Michiel Korthals, voormalig hoogleraar filosofie aan de Wageningen Universiteit, behoort tot die laatste categorie. Hij noemt het een verhaal van vervreemding. De mens groeit steeds verder weg van zijn voedsel en dat hoeft zeker niet positief te zijn [1].

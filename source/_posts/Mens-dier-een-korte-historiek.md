@@ -12,6 +12,10 @@ tags:
 - Gedrag
 ---
 
+**tldr;** Een korte geschiedenis leert ons veel over de relatie tussen mens en dier: van jagen, over domesticeren met sterke verbintenis naar een reductie tot ding in een technologische molen.
+
+---
+
 Het geduld is niet altijd aan mij weggelegd. Gelukkig gaat in de wereld van IT alles razendsnel vooruit, als er vernieuwing opsteekt is het een kwestie van een aantal jaar vooraleer iedereen het hanteert. De verspreiding van nieuwe informatie zit in het DNA. Als ik echter met meer maatschappelijke ideeën bezig ben, dan loop ik al snel tegen de lamp met m'n geduld. Als het om voeding, landbouw of natuur gaat dan komt er veel meer bij te kijken dan bij IT, je zit met huidige machststructuren, politiek, en vooral een bepaalde mindset van de burger. Één van de dingen die mij stoort is de manier waarop wij als mens momenteel omgaan met dieren. Geschiedenis heeft mij nooit enorm kunnen boeien, maar wanneer ik een bloemlezing kreeg over de geschiedenis van de relatie tussen mens en dier kon ik m'n ergernis een plaats geven. Het leerde me hoe de huidige maatschappelijke ideeën tot stand zijn gekomen en waarom mensen op een bepaalde manier denken. Dit resulteerde in een aantal leuke "aha-momentjes" en liet mij inzien waarom sommige dingen zo moeilijk te veranderen zijn. Ze zitten namelijk diep in onze cultuur verwikkeld [1].
 
 #### Van jager tot heerser

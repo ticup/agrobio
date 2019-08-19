@@ -3,14 +3,14 @@ title: Een sociaal beleid voor planten of niet
 catalog: true
 date: 2019-07-28 12:20:44
 subtitle:
-header-img:
+header-img: 'header.jpg'
 tags:
 - Tuinaanleg
 - Biodiversiteit
 - Natuur
 ---
 
-tldr; Gebruik zoveel mogelijk inheemse soorten, maar wees niet altijd bang om aan te vullen met uitheemse (zolang ze niet invasief zijn). Het is namelijk veel belangrijker dat je rekening houdt biologische, pesticide-vrij plantgoed.
+**tldr;** Discussie over het gebruik van inheemse/uitheemse soorten voor het tuinieren. Gebruik bij het tuinieren zoveel mogelijk inheemse soorten, maar wees niet altijd bang om aan te vullen met uitheemse (zolang ze niet invasief zijn!). Het is tevens veel belangrijker dat je rekening houdt biologische, pesticide-vrij plantgoed.
 
 ---
 
@@ -50,8 +50,8 @@ Een drietal jaar geleden kwam de [Royal Horticultural Society](https://www.rhs.o
 Dat invasieve exoten niet welkom zijn, dat is duidelijk. Maar exoten tout-court zomaar buiten spel zetten is een beetje kortzichtig. Er is ondertussen genoeg onderzoek dat aantoont dat exoten perfect hun steentje kunnen bijdragen aan sterkere, diversere ecosystemen. Het probleem is echter dat ecologie, de samenwerking tussen alle verschillende organismen van een ecosysteem, zo complex is dat we nog heel veel niet verstaan. Zo is het ook moeilijk in te schatten wat de impact van een exoot zal zijn. Daarom is het belangrijk
 
 #### Een gemeenschappelijke vijand
-Het belangrijkste van allemaal is echter het volgende gegeven. In 2017 bracht de [RHS](https://www.rhs.org.uk/) een studie uit waarin duidelijk werd dat zo goed als alle planten die verkochten werden als “bestuivers-vriendelijk” sporen van pesticiden bevatten; slechts 2 van de 29 planten bevatten er geen[6]. Daarbij bevatten 70% van de planten neocotinoiden, dewelke nu verboden zijn in Europa. Pesticiden hebben duidelijk een negatieve impact heeft op de bestuivers [7], maar of de netto impact van het meer plaatsen van bestuivers-vriendelijke met resten van pesticiden in nu positief of negatief is weten ze nog niet. Om die reden en op basis van hun onderzoek overweegt de RHS zelfs om hun eigen [“Perfect for Pollinators”](https://www.rhs.org.uk/science/pdf/conservation-and- biodiversity/wildlife/rhs-perfect-for-pollinators-wildflowers.pdf) [te schrappen](https://www.hortweek.com/rhs-considers-
-withdrawing-perfect-pollinators/article/1451080). Hun doel is namelijk om de bestuivers te helpen en ze zijn niet meer zeker of ze dat kunnen halen door de aanplanting van die bestuivers aantrekkelijke planten met mogelijks insecticide-resten in.
+Het belangrijkste van allemaal is echter het volgende gegeven. In 2017 bracht de [RHS](https://www.rhs.org.uk/) een studie uit waarin duidelijk werd dat zo goed als alle planten die verkochten werden als “bestuivers-vriendelijk” sporen van pesticiden bevatten; slechts 2 van de 29 planten bevatten er geen[6]. Daarbij bevatten 70% van de planten neocotinoiden, dewelke nu verboden zijn in Europa. Pesticiden hebben duidelijk een negatieve impact heeft op de bestuivers [7], maar of de netto impact van het meer plaatsen van bestuivers-vriendelijke met resten van pesticiden in nu positief of negatief is weten ze nog niet. Om die reden en op basis van hun onderzoek overweegt de RHS zelfs om hun eigen [Perfect for Pollinators]( https://www.rhs.org.uk/science/pdf/conservation-and-biodiversity/wildlife/rhs-perfect-for-pollinators-wildflowers.pdf ) [te schrappen]( https://www.hortweek.com/rhs-considers-
+withdrawing-perfect-pollinators/article/1451080 ). Hun doel is namelijk om de bestuivers te helpen en ze zijn niet meer zeker of ze dat kunnen halen door de aanplanting van die bestuivers aantrekkelijke planten met mogelijks insecticide-resten in.
 
 #### Beleidsplan
 Tot er meer wordt ingezet op concreet onderzoek van interacties tussen exoten en bepaalde ecosystemen, kunnen wij als burger voorzichtig het volgende advies hanteren omtrent de keuze van plantgoed: 

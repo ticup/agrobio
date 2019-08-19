@@ -10,6 +10,11 @@ tags:
 - Tuinaanleg
 ---
 
+
+**tldr;** Een van m'n eerste concrete acties om meer plaats aan groen te bieden is de simpele daad om ons terras deels uit te breken, zand aan te voeren en een mini-tuintje te bouwen. Enorm leerrijk en verrassend voldoeninggevend voor zo'n klein gebaar.
+
+---
+
 Je hebt denkers en doeners. Heel vaak moet ik mezelf toch bij de denkers plaatsen. Zo wil ik bijdragen aan een groenere en duurzamere omgeving. Dat was dan ook een van de redenen dat ik de opleiding agro- en biotechnologie: groenmanagement ben gaan volgen. De uitdaging voor mij persoonlijk ligt hem niet per se in die opleiding te volgen, maar in de ideeën en kennis die ik opdoe ook daadwerkelijk toe te passen in de praktijk. Ik zie het vaak te groots en zie vaak ook nog steeds te veel negatieve dingen in ideeën zodanig dat die nooit tot stand komen. Daarom heb ik besloten om mezelf te verplichten zoveel mogelijk kleine praktische zaken uit te voeren die toch voor een kleine vergroening zullen zorgen. Door deze te documenteren en bij te houden kan ik er later op terugkijken, hopelijk progressie zien en toch blij zijn met de kleine zaken die ik reeds verwezenlijkt heb. Zo kan ik reeds enigszins trots zijn, tot dat wereldverbeterend idee komt...
 
 #### Triestige grijze vlakte
@@ -80,7 +85,7 @@ Alhoewel het in het begin een kleine onderneming leek, was het een hele karwei. 
 - Veel **plantenenkennis** tijdens het opzoekwerk
 
 <div class="lead">
-Het gewoon doen draagt nu al z'n vruchten af, het aanleggen van deze tuin was enorm leerrijk voor mij persoonlijk en tegelijkertijd voelt het goed om te weten dat ik een in plaats van stenen nu een kleine plaats biedt voor groen.
+Het doen draagt z'n vruchten af, het aanleggen van deze tuin was enorm leerrijk en tegelijkertijd voelt het goed om te weten dat ik in plaats van stenen nu een kleine plaats biedt voor groen.
 </div>
 
 Aangezien ik niet gewoon ben om met zo'n volumes te werken (en een 1 kubieke meter zand is dan nog zeer bescheiden) had ik het werk onderschat en niet altijd goed genoeg ingepland, ik was er gewoon aan begonnen. Dingen die ik anders zou doen de volgende keer:
@@ -92,4 +97,3 @@ Uiteindelijk ben ik zeer tevreden met het resultaat, voor zo'n kleine 1000 euro 
 -----
 
 [1] Geertje Coremans, Evelyne Fiers en Greet Tijskens. *Stappen naar een ecologische tuin: aanleg en beheer*. 2008.
-[2] WG = Wintergroen

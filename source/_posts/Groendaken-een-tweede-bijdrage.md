@@ -10,6 +10,13 @@ tags:
 - Groendak
 ---
 
+
+**tldr;** Een tweede concrete, doch bescheiden stap in m'n bijdrage tot vergroening en het overgaan tot doen was het volgen van een groendakcursus en het aanleggen van een groendak bij een kennis.
+
+
+---
+
+
 Een tijdje geleden volgde ik een tweedaags cursus *Opleidingstraject voor een professioneel groendak/ blauw-groendak* bij Escala via Syntra West. Net als in m'n vorige post leek mij dit een uitgelezen kans om hier en daar een kleine bijdrage te leveren aan een groenere omgeving. Even daarna was een van m'n vrienden aan het renoveren en hun stad (Wilrijk) levert een flinke premie wanneer je duurzaam renoveert, en groendaken zijn daar een deel van. Dus ik zette m'n opleiding direct in de praktijk om en hielp hen zelf het groendak aan te leggen.
 
 #### Groendaken
@@ -96,7 +103,7 @@ naar dit:
 <p class=""> Afwerken van substraat en de boorden met keien </p>
 <img src='stap5.jpg' class="img-responsive">
 
-###### Stekken
+#####  Stekken
 <p class=""> Het planten van de stekken </p>
 <img src='stap6-7.jpg' class="img-responsive">
 

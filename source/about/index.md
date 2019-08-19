@@ -7,7 +7,7 @@ header-img: "img/header_img/contact-bg.jpg"
 comments: true
 ---
 
-**tldr;** Het leven als IT'er bracht me niet genoeg voldoening, een opleiding in de agro- en biotechnologie zorgde voor deze opvulling en met deze blog wil ik die kennis bundelen en doorgeven.
+**tldr;** Het leven als IT'er bracht me niet genoeg voldoening, een opleiding in de agro- en biotechnologie zorgde voor deze opvulling. Met deze blog wil ik die kennis bundelen en doorgeven en mezelf verplichten kleine acties te ondernemen die voor meer groen zorgen.
 
 ---
 
